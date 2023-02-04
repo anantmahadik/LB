@@ -31,7 +31,7 @@ class Digits
         while(iNo != 0)
         {
             iCnt++;
-            iNo = iNo / 10;
+            iNo = iNo / 10; 
         }
         return iCnt;
     }
