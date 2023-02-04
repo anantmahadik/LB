@@ -35,6 +35,7 @@ class SinglyLL
 int main()
 {
     SinglyLL obj;
+    
     return 0;
     
 }
