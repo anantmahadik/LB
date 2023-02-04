@@ -17,10 +17,10 @@ void InsertFirst(PPNODE First, PPNODE Last, int no)
 
 }
 
-void Display(PPNODE First, PPNODE Last)
+void Display(PNODE First, PNODE Last)
 {
 
-    
+
 }
 
 int main()
